@@ -140,7 +140,7 @@ Colección de ejercicios prácticos en Python organizados por unidades temática
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/davidabb2000/Actividades_python.git
 
 # 2. Entra a la carpeta
 cd tu-repositorio
